@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Home Page</string>
+
+    <string name="groups_btn_pages">450 Pages</string>
+    <string name="groups_btn_finish">1 finish</string>
+
+    <string name="groups_et_search_hint">Enter group ID</string>
+    <string name="groups_tv_search_hint1">search for a group</string>
+    <string name="groups_tv_search_hint2">Enter a group ID to search for ask ID from group admin</string>
+    <string name="groups_tv_username">UserName</string>
+    <string name="groups_tv_createNewGroup">create new group</string>
+</resources>

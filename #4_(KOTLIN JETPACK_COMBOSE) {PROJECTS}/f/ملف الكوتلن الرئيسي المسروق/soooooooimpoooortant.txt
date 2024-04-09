@@ -1,0 +1,7 @@
+use: this in gradle depandace
+
+implementation "androidx.compose.material:material:1.5.4"
+
+don't use this in Theme.kt
+
+//import androidx.compose.material3.MaterialTheme
