@@ -18,9 +18,9 @@ const index = () => {
   }
 
 
-  // if (!isAdmin) {
-  //   return <Redirect href={'/(user)'} />; 
-  // }
+  if (!isAdmin) {
+    return <Redirect href={'/(user)'} />; 
+  }
 
   return (
     <View style={{ flex: 1, justifyContent: 'center', padding: 10 }}>
